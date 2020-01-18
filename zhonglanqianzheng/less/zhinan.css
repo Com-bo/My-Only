@@ -1,0 +1,26 @@
+@media screen and (min-width: 992px) {
+  .container {
+    width: 940px;
+  }
+}
+ul {
+  list-style: none;
+  margin: 0;
+}
+#list {
+  padding: 0 15px;
+}
+#list li .h3 {
+  color: #0ba1e4;
+}
+#list li a {
+  width: 100%;
+  font-size: 14px;
+  text-decoration: none;
+  color: #616161;
+  height: 28px;
+  line-height: 28px;
+}
+.container .col-sm-3 {
+  border-right: 1px solid #C1C1C1;
+}

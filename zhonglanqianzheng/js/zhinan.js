@@ -1,0 +1,351 @@
+var data=[
+{
+"title":"签证类型1",
+"list":[{
+    "title":"签证类型概述",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"非移民签证"
+    },{
+        "title":"签证类型列表"
+    }]
+},{
+    "title":"商务/旅行签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"条件"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    },{
+        "title":"寻求医疗服务的签证申请支持性文件"
+    }]
+},{
+    "title":"学生签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"签证说明和申请条件"
+    },{
+        "title":"美国公立学校"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    },{
+        "title":"家属"
+    },{
+        "title":"其他信息"
+    }]
+},{
+    "title":"交流访问学者签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"家属"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    },{
+        "title":"针对家属的支持性文件"
+    }]
+},{
+    "title":"过境/船员/机组签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"条件"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    }]
+},{
+    "title":"工作签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"签证说明和申请条件"
+    },{
+        "title":"申请时间"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    },{
+        "title":"家属"
+    }]
+},{
+    "title":"宗教工作者签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"条件"
+    },{
+        "title":"申请批件(Petition)"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    },]
+},{
+    "title":"家庭雇员签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"条件"
+    },{
+        "title":"陪同非移民签证持有人"
+    },{
+        "title":"陪同美国公民"
+    },{
+        "title":"陪同美国合法永久居民"
+    },{
+        "title":"对B-1签证持有人的雇佣合同要求"
+    },{
+        "title":"对A-3/G-5签证持有人的雇佣合同要求"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    },{
+        "title":"陪同A-1、A-2或G-1 - G-4签证持有人的家庭雇员（A-3或G-5签证）"
+    }]
+},{
+    "title":"记者和媒体签证",
+    "list":[{
+        "title":"概述"
+    },{
+        "title":"条件"
+    },{
+        "title":"限制条件"
+    },{
+        "title":"使用商务旅游签证出行"
+    },{
+        "title":"使用短期工作签证出行"
+    },{
+        "title":"家属"
+    },{
+        "title":"申请材料"
+    },{
+        "title":"如何申请"
+    },{
+        "title":"支持性文件"
+    }]
+    }]
+},
+{
+    "title":"签证类型2",
+    "list":[{
+        "title":"签证类型概述",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"非移民签证"
+        },{
+            "title":"签证类型列表"
+        }]
+    },{
+        "title":"商务/旅行签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"条件"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        },{
+            "title":"寻求医疗服务的签证申请支持性文件"
+        }]
+    },{
+        "title":"学生签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"签证说明和申请条件"
+        },{
+            "title":"美国公立学校"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        },{
+            "title":"家属"
+        },{
+            "title":"其他信息"
+        }]
+    },{
+        "title":"交流访问学者签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"家属"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        },{
+            "title":"针对家属的支持性文件"
+        }]
+    },{
+        "title":"过境/船员/机组签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"条件"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        }]
+    },{
+        "title":"工作签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"签证说明和申请条件"
+        },{
+            "title":"申请时间"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        },{
+            "title":"家属"
+        }]
+    },{
+        "title":"宗教工作者签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"条件"
+        },{
+            "title":"申请批件(Petition)"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        },]
+    },{
+        "title":"家庭雇员签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"条件"
+        },{
+            "title":"陪同非移民签证持有人"
+        },{
+            "title":"陪同美国公民"
+        },{
+            "title":"陪同美国合法永久居民"
+        },{
+            "title":"对B-1签证持有人的雇佣合同要求"
+        },{
+            "title":"对A-3/G-5签证持有人的雇佣合同要求"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        },{
+            "title":"陪同A-1、A-2或G-1 - G-4签证持有人的家庭雇员（A-3或G-5签证）"
+        }]
+    },{
+        "title":"记者和媒体签证",
+        "list":[{
+            "title":"概述"
+        },{
+            "title":"条件"
+        },{
+            "title":"限制条件"
+        },{
+            "title":"使用商务旅游签证出行"
+        },{
+            "title":"使用短期工作签证出行"
+        },{
+            "title":"家属"
+        },{
+            "title":"申请材料"
+        },{
+            "title":"如何申请"
+        },{
+            "title":"支持性文件"
+        }]
+        }]
+    }
+]
+var str=""
+for ( i = 0; i < data.length; i++) {
+     str+= `
+        <li><a href='#' class="h3">${data[i].title}</a><ul class="secondlist"></ul></li>
+     `;
+}
+$("#list")[0].innerHTML=str
+for ( i = 0; i < data.length; i++) {
+     for (j = 0; j < data[i].list.length; j++) {
+          $(".secondlist").eq(i).html(function(i,v){
+              return v+"<li><a href='#' class='h4'>"+data[i].list[j].title+'</a><ul class="threeList"></ul></li>'
+          }) 
+     }
+}
+
+for ( i = 0; i < data.length; i++) {
+    for (j = 0; j < data[i].list.length; j++) {
+        for (k = 0; k < data[i].list[j].list.length; k++) {
+            $("#list>li").eq(i).find(".threeList").eq(j).html(function(i,v){
+               return  v+="<li><a href='#'>"+ data[i].list[j].list[k].title+"</a></li>";
+            })
+            
+        }
+    }
+}
+$("#list>li .h3").click(function(){
+    $(".secondlist").css("display","none")
+    $(this).siblings().css("display","block")
+    
+})
+$(".secondlist>li .h4").click(function(){
+    $(".threeList").css("display","none")
+    $(this).siblings().css("display","block")
+    
+})
+$(".secondlist").css("display","none")
+$(".threeList").css("display","none")
+$(".secondlist")[0].style.display="block"
+$(".threeList")[0].style.display="block"
+$("#list a:not(.h3)").mouseover(function(){
+    $("#list a:not(.h3)").css("color","#616161")
+    $(this).css("color","#0ba1e4")
+})
